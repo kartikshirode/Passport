@@ -2,7 +2,7 @@
 
 A complete React + FastAPI web application that processes user photos into Indian passport-sized photos (51×51 mm) with face detection, background removal/replacement, and A4 printable sheet generation.
 
-## Featuresg
+## Featuresghttps://www.cloudskillsboost.google/public_profiles/6d857be3-9c9e-4cee-85fb-
 
 - **Smart Photo Processing**: Automatic face detection and centering using OpenCV and MediaPipe
 - **Background Removal**: High-quality segmentation using U²-Net via rembg library
